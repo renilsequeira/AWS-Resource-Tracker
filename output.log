@@ -1,0 +1,12 @@
+Listing S3 Buckets:
+2023-11-19 23:55:53 renilsequeira.bio
+Listing EC2 Instances:
+{
+    "Reservations": []
+}
+Listing Lambda Functions:
+{
+    "Functions": []
+}
+Listing IAM Users:
+user_renil
